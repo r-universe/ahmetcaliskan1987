@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ItemRest"]
+	path = ItemRest
+	url = https://github.com/ahmetcaliskan1987/itemrest
