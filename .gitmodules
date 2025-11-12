@@ -5,3 +5,6 @@
 [submodule "ItemRest"]
 	path = ItemRest
 	url = https://github.com/ahmetcaliskan1987/itemrest
+[submodule "examly"]
+	path = examly
+	url = https://github.com/cran/examly
